@@ -1,0 +1,6 @@
+This is an simple example where we are using the import export methods in nodejs.
+to access this document: 
+Step-1: download app.js and squre.js.
+Step-2: create a folder in local drive and move two files in it.
+Step-3: open command and change the directory where app.js and squre.js is available.
+Step-4: type "node app.js" to see the result.
